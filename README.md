@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Sub
 
-<!--
-**Subzc/Subzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack focado em aplicações Web, Python e Minecraft.
 
-Here are some ideas to get you started:
+💻 Tecnologias
+Python
+Java
+C#
+HTML
+CSS
+🚀 Serviços
+Desenvolvimento de Sites
+Bots para Discord
+Configuração de Servidores Minecraft
+Automações em Python
+📫 Contato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: (seu discord)
+
+GitHub:
+https://github.com/Subzc
