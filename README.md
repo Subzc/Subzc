@@ -15,7 +15,7 @@ Configuração de Servidores Minecraft
 Automações em Python
 📫 Contato
 
-Discord: (seu discord)
+Discord: subzc
 
 GitHub:
 https://github.com/Subzc
